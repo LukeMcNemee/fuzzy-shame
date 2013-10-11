@@ -1,0 +1,2 @@
+[hw01/main.c:16]: (style) The function 'getBytes' is never used.
+(information) Cppcheck cannot find all the include files (use --check-config for details)
