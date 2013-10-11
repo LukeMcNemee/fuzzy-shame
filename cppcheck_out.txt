@@ -1,4 +1,4 @@
-[hello/hello.c:9]: (style) Obsolete function 'gets' called. It is recommended to use the function 'fgets' instead.
+[hello/hello.c:8]: (style) Unused variable: buffer
 [hw01/ascii85.c:35]: (style) Obsolete function 'gets' called. It is recommended to use the function 'fgets' instead.
 [hw01/main.c:16]: (style) The function 'getBytes' is never used.
 (information) Cppcheck cannot find all the include files (use --check-config for details)
