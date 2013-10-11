@@ -6,7 +6,7 @@ int main(void)
 {
 
    int buffer[30];
-	fgets(buffer);
+	gets(buffer);
     printf("Hello World \n");
   
     return 0;
