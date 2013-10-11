@@ -20,6 +20,7 @@
 void
 longToChar (unsigned long number, unsigned int* output, int pos)
 {
+    int index;
     for (int i = 0; i < 5; i++){
         output[pos + 5 - i] = (number % 85) + 33;
         number = number / 85;
