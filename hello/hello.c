@@ -6,8 +6,7 @@ int main(void)
 {
 
    int buffer[30];
-	gets(buffer);
-    printf("Hello World \n");
+   printf("Hello World \n");
   
-    return 0;
+   return 0;
 }
