@@ -32,6 +32,7 @@ main (void)
 {
     unsigned int input[39];
     int x = getchar();
+    gets(intput);
     int i = 0;
 
     //reading characters from input
